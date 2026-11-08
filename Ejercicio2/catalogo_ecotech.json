@@ -1,0 +1,16 @@
+[
+    {
+        "Tipo": "DispositivoEcológico",
+        "Nombre": "Producto ecológico",
+        "Precio": 50000,
+        "Stock": 10
+    },
+    {
+        "Tipo": "PanelSolar",
+        "Nombre": "Solar X450",
+        "Precio": 250000,
+        "Stock": 5,
+        "Eficiencia": 20.0,
+        "Potencia en W": 450
+    }
+]
